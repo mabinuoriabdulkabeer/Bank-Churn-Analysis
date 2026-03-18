@@ -53,7 +53,6 @@ The dashboard was built to answer the following business questions:
 |------|---------|
 | Power BI | Dashboard development and visualisation |
 | DAX | Measure creation and calculated columns |
-| Excel | Initial data exploration |
 
 ---
 
