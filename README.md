@@ -26,7 +26,7 @@ The dashboard was built to answer the following business questions:
 ---
 
 ## Dashboard
-![Dashboard](ADD YOUR SCREENSHOT URL HERE)
+![Dashboard](https://github.com/mabinuoriabdulkabeer/Bank-Churn-Analysis/blob/main/Bank%20Churn%20Dashboard.png)
 
 ---
 
